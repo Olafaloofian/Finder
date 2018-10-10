@@ -26,6 +26,7 @@
 ### Home view (no user logged in)
 
 ![Home View No User](./media/homenouser.png =250x)
+<img src='./media/homenouser.png' alt='Home View No User' width='200'>
 
 
 
