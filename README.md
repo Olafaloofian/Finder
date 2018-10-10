@@ -25,7 +25,7 @@
 
 ### Home view (no user logged in)
 
-![Home View No User](./media/homenouser.jpg)
+![Home View No User](./media/homenouser.png)
 
 
 
